@@ -1,68 +1,36 @@
--   [Introduction](README.md)
+# Table of contents
 
--   [Cahier de textes 1D](application/751/index.md)
-
--   [Actualités](application/actualites/index.md)
-
--   [Administration](application/administration/index.md)
-
--   [Export](application/archive/index.md)
-
--   [Blog](application/blog/index.md)
-
--   [Agenda](application/calendar/index.md)
-
--   [Pad collaboratif](application/collaborative-editor/index.md)
-
--   [Mur collaboratif](application/collaborativewall/index.md)
-
--   [Communautés](application/community/index.md)
-
--   [Messagerie](application/conversation/index.md)
-
--   [Annuaire](application/directory/index.md)
-
--   [Exercises et évaluations](application/exercizer/index.md)
-
--   [Forum](application/forum/index.md)
-
--   [Carte mentale](application/mindmap/index.md)
-
--   [Pages](application/pages/index.md)
-
--   [Paramétrage de la classe
-    1D](application/parametrage-de-la-classe-1d/index.md)
-
--   [Sondage](application/poll/index.md)
-
--   [Mes applis](application/portal/index.md)
-
--   [Casier](application/rack/index.md)
-
--   [Réservation de ressources](application/rbs/index.md)
-
--   [Cahier multimédia](application/scrap-book/index.md)
-
--   [Moteur recherche](application/search-engine/index.md)
-
--   [Poste-fichiers](application/share-big-files/index.md)
-
--   [Statistiques 2D](application/statistics/index.md)
-
--   [Statistiques 1D](application/stats/index.md)
-
--   [Aide & Support](application/support/index.md)
-
--   [Premiers pas dans l'ENT](application/timeline/index.md)
-
--   [Frise chronologique](application/timelinegenerator/index.md)
-
--   [Mon compte](application/userbook/index.md)
-
--   [Compétences](application/viescolaire/index.md)
-
--   [Wiki](application/wiki/index.md)
-
--   [Documents](application/workspace/index.md)
-
+* [Introduction](README.md)
+* [Cahier de textes 1D](cahier-de-textes-1d.md)
+* [Actualités](actualites.md)
+* [Administration](administration.md)
+* [Export](export.md)
+* [Blog](blog.md)
+* [Agenda](agenda.md)
+* [Pad collaboratif](pad-collaboratif.md)
+* [Mur collaboratif](mur-collaboratif.md)
+* [Communautés](communautes.md)
+* [Messagerie](messagerie.md)
+* [Annuaire](annuaire.md)
+* [Exercises et évaluations](exercises-et-evaluations.md)
+* [Forum](forum.md)
+* [Carte mentale](carte-mentale.md)
+* [Pages](pages.md)
+* [Paramétrage de la classe 1D](parametrage-de-la-classe-1d.md)
+* [Sondage](sondage.md)
+* [Mes applis](mes-applis.md)
+* [Casier](casier.md)
+* [Réservation de ressources](reservation-de-ressources.md)
+* [Cahier multimédia](cahier-multimedia.md)
+* [Moteur recherche](moteur-recherche.md)
+* [Poste-fichiers](poste-fichiers.md)
+* [Statistiques 2D](statistiques-2d.md)
+* [Statistiques 1D](statistiques-1d.md)
+* [Aide & Support](aide-and-support.md)
+* [Premiers pas dans l'ENT](premiers-pas-dans-lent.md)
+* [Frise chronologique](frise-chronologique.md)
+* [Mon compte](mon-compte.md)
+* [Compétences](competences.md)
+* Wiki
+* [Documents](documents.md)
 
