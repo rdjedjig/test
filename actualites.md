@@ -17,7 +17,11 @@ Cet outil vous permet de **diffuser facilement une information** \(comme le dér
 
 Lorsque vous publiez une actualité, vous choisissez les utilisateurs ou les groupes de personnes avec lesquels vous souhaitez partager l’information. Les personnes concernées reçoivent une **notification** dans leur **fil de nouveautés** et voient apparaître l’actualité dans le **widget Actualités**.
 
-![image](https://github.com/rdjedjig/test/tree/3238c182f08d33cb073b2a487612e589768c5227/wp-content/uploads/2016/07/Actu_11-1024x475.png)
+
+
+![](.gitbook/assets/image1.png)
+
+![Des solutions pour tous vos usages](https://github.com/rdjedjig/test/tree/3238c182f08d33cb073b2a487612e589768c5227/wp-content/uploads/2016/07/Actu_11-1024x475.png)
 
 ## Créer un fil d’actualités {#cas-d-usage-1}
 

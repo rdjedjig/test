@@ -8,5 +8,5 @@ Bienvenue sur le manuel d’utilisation des applications de votre réseau social
 
 Solution éditée et motorisée par : 
 
-![a2](.gitbook/assets/ode-logo.png)
+![Open Digital Education](.gitbook/assets/ode-logo.png)
 
