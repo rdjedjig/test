@@ -40,10 +40,11 @@ Il est facile de publier les devoirs des élèves dans le cahier de textes. Les 
 * [ ] tâche vide
 
 ```text
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xHnbFDFrmxw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=xHnbFDFrmxw
+
 ```
 
-![Test d&apos;int&#xE9;gration vid&#xE9;o](https://github.com/rdjedjig/test/tree/3238c182f08d33cb073b2a487612e589768c5227/wp-content/uploads/2015/05/cahier-de-textes.png)
+![](https://github.com/rdjedjig/test/tree/3238c182f08d33cb073b2a487612e589768c5227/wp-content/uploads/2015/05/cahier-de-textes.png)
 
 > Ceci est une citation !!!!
 
