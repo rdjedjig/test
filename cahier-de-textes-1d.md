@@ -18,11 +18,13 @@ description: >-
 
 Il est facile de publier les devoirs des élèves dans le cahier de textes. Les élèves y accèdent jour par jour et disposent également d’une synthèse de la semaine \(vue semaine\).
 
-Le cahier peut être partagé avec un utilisateur ou un groupe d’utilisateurs, selon les souhaits de l’enseignant.
+> Application très pratique
 
 ![image](https://github.com/rdjedjig/test/tree/3238c182f08d33cb073b2a487612e589768c5227/wp-content/uploads/2015/05/cahier-de-textes.png)
 
 ## Créer un cahier de textes {#cas-d-usage-1}
+
+Le cahier peut être partagé avec un utilisateur ou un groupe d’utilisateurs, selon les souhaits de l’enseignant.
 
 Pour accéder à l’appli Cahier de textes, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
