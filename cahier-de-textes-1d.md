@@ -19,8 +19,43 @@ description: >-
 Il est facile de publier les devoirs des élèves dans le cahier de textes. Les élèves y accèdent jour par jour et disposent également d’une synthèse de la semaine \(vue semaine\).
 
 > Application très pratique
+>
+> ## Ceci est un titre
+>
+> Voici le texte de la recette du gitbook ! Si je mets **en gras**, c'est facile, si je mets _en italique_, c'est possible, et le ~~barré~~ aussi, pour changer la couleur ?
 
-![image](https://github.com/rdjedjig/test/tree/3238c182f08d33cb073b2a487612e589768c5227/wp-content/uploads/2015/05/cahier-de-textes.png)
+> ### Ceci est un titre 2
+>
+> * Bullet points
+> * blablabla
+>
+> 1. test 1
+> 2. test 2
+
+
+
+
+
+* [x] tâche !
+* [ ] tâche vide
+
+```text
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xHnbFDFrmxw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+```
+
+![Test d&apos;int&#xE9;gration vid&#xE9;o](https://github.com/rdjedjig/test/tree/3238c182f08d33cb073b2a487612e589768c5227/wp-content/uploads/2015/05/cahier-de-textes.png)
+
+> Ceci est une citation !!!!
+
+
+
+![ONE &amp; NEO](.gitbook/assets/2018-04-19_08h56_24.png)
+
+
+
+
+
+
 
 ## Créer un cahier de textes {#cas-d-usage-1}
 
