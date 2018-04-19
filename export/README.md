@@ -11,7 +11,49 @@ L’appli **Export** permet aux utilisateurs de générer un fichier compressé 
 
 Le fichier généré \(archive\) contient les **documents personnels** de l’utilisateur ainsi que les **documents partagés avec l’utilisateur** ; autrement dit, tous les documents que peut voir l’utilisateur dans le service Documents au moment où il réalise l’export. L’archive est automatiquement générée lors du clic sur le bouton « Télécharger mes données » et peut être enregistrée sur l’ordinateur de l’utilisateur par exemple.
 
-![export](https://github.com/rdjedjig/test/tree/3238c182f08d33cb073b2a487612e589768c5227/wp-content/uploads/2016/04/export-1024x140.png)
+
+
+{% hint style="success" %}
+Point info
+{% endhint %}
+
+{% page-ref page="../mur-collaboratif.md" %}
+
+{% api-method method="get" host="" path="" %}
+{% api-method-summary %}
+
+{% endapi-method-summary %}
+
+{% api-method-description %}
+
+{% endapi-method-description %}
+
+{% api-method-spec %}
+{% api-method-request %}
+{% api-method-path-parameters %}
+{% api-method-parameter name="" type="string" required=false %}
+
+{% endapi-method-parameter %}
+{% endapi-method-path-parameters %}
+{% endapi-method-request %}
+
+{% api-method-response %}
+{% api-method-response-example httpCode=200 %}
+{% api-method-response-example-description %}
+
+{% endapi-method-response-example-description %}
+
+```
+
+```
+{% endapi-method-response-example %}
+{% endapi-method-response %}
+{% endapi-method-spec %}
+{% endapi-method %}
+
+
+
+
 
 ## Note de version {#notes-de-versions}
 
