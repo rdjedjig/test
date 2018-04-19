@@ -14,9 +14,19 @@ description: >-
 
 \[image:../../wp-content/uploads/2015/03/CC-BY-NC-SA-3.0-FR-300x105.png[CC BY-NC-SA 3.0 FR,width=100,height=35](http://creativecommons.org/licenses/by-nc-sa/3.0/fr/)\]
 
-## Présentation {#presentation}
+
+
+
+
+![](.gitbook/assets/villefranche-3.png)
+
+### Présentation {#presentation}
 
 Il est facile de publier les devoirs des élèves dans le cahier de textes. Les élèves y accèdent jour par jour et disposent également d’une synthèse de la semaine \(vue semaine\).
+
+
+
+![](.gitbook/assets/2018-04-12_09h09_24.png)
 
 > Application très pratique
 >
